@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis and Machine Learning (https://openclassrooms.com/fr/paths/146-data-analyst)
 -   you can have a look at the projects I've carried out until now
-- 💞️ I’m looking to work as a Data Analyst / Web Analyst / Data Scientist / Consultant BI
+- 💞️ I’m looking to work as a Data Analyst / Scientist
 - 📫 How to reach me www.linkedin.com/in/céline-vantyghem-160b23109
 <!---
 CelineVantyghem/CelineVantyghem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
